@@ -1,16 +1,27 @@
-### Hi there 👋
+## Scripting
+- JavaScript/Node.js, PHP5.6+, Python, CSS/LESS, Bash
+- Go, Ruby, Java
 
-<!--
-**rezen/rezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Datastores
+- MySql, MongoDB, Redis
+- Elasticsearch, Cassandra
 
-Here are some ideas to get you started:
+## Libraries
+- Angular.js, d3.js, Backbone.js, KnockoutJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Docker, Vagrant, Git, Puppet, Jenkins, Grunt, Gulp, Mocha
+- Terraform, AWS, DigitalOcean
+- Illustrator, Photoshop
+- OWASP ZAP, nmap, sqlmap, wpscan, gobuster, Nexpose, OpenVAS
+
+## Services
+- beanstalkd, supervisord, pm2
+- nginx, apache
+- kafka, graphite, grafana
+
+## OS
+- nix & win
+
+## Interests
+- Security, Resilient/Fault-tolerant systems, system stability 
