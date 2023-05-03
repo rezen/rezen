@@ -1,17 +1,13 @@
 ## Scripting
-- JavaScript/Node.js, PHP5.6+, Python, CSS/LESS, Bash
+- Python, JavaScript/Node.js, PHP, CSS, Bash
 - Go, Ruby, Java
 
 ## Datastores
 - MySql, MongoDB, Redis
 - Elasticsearch, Cassandra
 
-## Libraries
-- Angular.js, d3.js, Backbone.js, KnockoutJS
-
 ## Tools
-- Docker, Vagrant, Git, Puppet, Jenkins, Grunt, Gulp, Mocha
-- Terraform, AWS, DigitalOcean
+- Docker, Terraform, AWS, DigitalOcean
 - Illustrator, Photoshop
 - OWASP ZAP, nmap, sqlmap, wpscan, gobuster, Nexpose, OpenVAS
 
