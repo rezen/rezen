@@ -1,23 +1,42 @@
-## Scripting
-- Python, JavaScript/Node.js, PHP, CSS, Bash
-- Go, Ruby, Java
+I like building secure, stable systems that enable everyone to sleep soundly at night.
 
-## Datastores
-- MySql, MongoDB, Redis
-- Elasticsearch, Cassandra
+## I've made with
+- Python
+- JavaScript/Node.js
+- PHP
+- Bash
+- Go
+- Ruby
+- CSS
 
-## Tools
-- Docker, Terraform, AWS, DigitalOcean
+## I've saved state with
+- MySql
+- MongoDB
+- Redis
+- Elasticsearch
+- etc
+
+## I've operated with
+- Docker
+- Terraform
+- AWS
+- DigitalOcean
+- nginx
+- Puppet
+- ansible
+- etc
+
+## I've evaluated security with 
+- OWASP ZAP
+- nmap
+- sqlmap
+- wpscan
+- gobuster
+- Nexpose
+- OpenVAS
+- trivy
+- semgrep
+- etc
+
+## I've designed interfaces with
 - Illustrator, Photoshop
-- OWASP ZAP, nmap, sqlmap, wpscan, gobuster, Nexpose, OpenVAS
-
-## Services
-- beanstalkd, supervisord, pm2
-- nginx, apache
-- kafka, graphite, grafana
-
-## OS
-- nix & win
-
-## Interests
-- Security, Resilient/Fault-tolerant systems, system stability 
