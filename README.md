@@ -1,42 +1,11 @@
 I like building secure, stable systems that enable everyone to sleep soundly at night.
 
-## I've made with
-- Python
-- JavaScript/Node.js
-- PHP
-- Bash
-- Go
-- Ruby
-- CSS
-
-## I've saved state with
-- MySql
-- MongoDB
-- Redis
-- Elasticsearch
-- etc
-
-## I've operated with
-- Docker
-- Terraform
-- AWS
-- DigitalOcean
-- nginx
-- Puppet
-- ansible
-- etc
-
-## I've evaluated security with 
-- OWASP ZAP
-- nmap
-- sqlmap
-- wpscan
-- gobuster
-- Nexpose
-- OpenVAS
-- trivy
-- semgrep
-- etc
-
-## I've designed interfaces with
-- Illustrator, Photoshop
+| lang   | state         | tools       | platforms    | libs        | sec     |
+|--------|---------------|-------------|--------------|-------------|---------|
+| python | mysql         | docker      | aws          | vue         | zap     |
+| js     | mongodb       | terraform   | digitalocean | flask       | nmap    |
+| php    | redis         | ansible     | azure        | laravel     | semgrep |
+| go     | dynamodb      | nginx       | vercel       | angular 1.x | trivy   |
+| css    | s3            | photoshop   | github       | react       | nuclei  |
+| ruby   | elasticsearch | illustrator |              |             |         |
+| bash   |               |             |              |             |         |
